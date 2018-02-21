@@ -1,0 +1,32 @@
+
+TP Python
+BTS SIO 1
+Lundi 04 Décembre 2017
+NOM :
+PRENOM :
+
+
+NOTE :
+
+
+
+Exercice 1 : Age.
+    Ecrire un algorithme permettant à l'utilisateur d' avoir son âge lorsqu'il saisie sa date de naissance.
+
+Exercice 2 : dictionnaire.
+
+Pour les besoins d'un jeu, on vous demande d'écrire un algorithme affichant aléatoirement 10 lettres de l'alphabet. avec ces lettres, remplir une variable de type dictionnaire en utilisant comme clé le mot saisie et comme valeur le nombre de lettre.
+
+Exercice 3 : Objet.
+
+  Créer une classe Compte Bancaire permettant de d'effectuer les opérations de retrait et de crédit.
+
+Exercice 4 : Formulaire.
+
+   Créer un formulaire d'inscription demandant un nom, un prénom, une date de naissance, un pseudo, un mot de passe qu'il faudra gérer (8 caractères minimum, la saisie doit être cacher).
+
+Exercice 5 :
+
+Créer une fonction permettant d'afficher la table de multiplication du chiffre passé en paramètre.  
+ 
+
